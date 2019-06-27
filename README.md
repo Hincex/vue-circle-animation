@@ -1,5 +1,11 @@
 # circle-animation
 
+### 使用vue+canvas实现的圆环进度条动画
+
+效果如下
+
+
+
 ## Project setup
 ```
 npm install
