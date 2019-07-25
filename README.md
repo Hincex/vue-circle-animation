@@ -4,7 +4,7 @@
 
 效果如下
 
-![avatar](/public/效果.jpg)
+![avatar](/public/Untitled.gif)
 
 已封装为组件，可传入长宽(也就是半径),单位，环粗细，速度等参数。
 
@@ -32,6 +32,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
